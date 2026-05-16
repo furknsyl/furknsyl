@@ -8,9 +8,11 @@
   <a href="https://furkansoylu.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-furkansoylu.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/furkan-soylu-8169b0294/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Furkan%20Soylu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:fsoylu500@gmail.com">
     <img src="https://img.shields.io/badge/Email-fsoylu500@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
