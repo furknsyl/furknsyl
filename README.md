@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Furkan 👋</h1>
+# 👋 Hi, I'm Furkan!
 
 <p align="center">
   <b>Full Stack Developer | .NET Developer | ASP.NET Core | C# | TypeScript | React | Next.js | RESTful API</b><br/>
@@ -18,8 +18,7 @@
   </a>
 </p>
 
-
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Tech Stack
 
 ### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -37,7 +36,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Veritabanı & Araçlar
+### Databases & Tools
 ![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -45,19 +44,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 📌 Featured Projects
 
-## 📌 Öne Çıkan Projeler
-
-| Proje | Açıklama | Teknoloji |
+| Project | Description | Technologies |
 |-------|----------|-----------|
-| [🍽️ SignalR Restoran Sipariş Yönetimi](https://github.com/furknsyl/SignalR-ile-Restoran-Siparis-Yonetimi) | QR kodlu gerçek zamanlı sipariş sistemi | ASP.NET Core, SignalR |
-| [🚗 CarBook – Onion Architecture](https://github.com/furknsyl/CarBook-Project-Onion-Architecture-) | Katmanlı mimariyle araç kiralama uygulaması | .NET Core |
-| [🏨 HotelAPI](https://github.com/furknsyl/HotelAPI) | Rapid API & API tüketimi projesi | ASP.NET Core |
-| [⚛️ ReactProjects](https://github.com/furknsyl/ReactProjects) | React ile geliştirdiğim çeşitli projeler | React, JavaScript |
+| [🍽️ SignalR Restaurant Order Management](https://github.com/furknsyl/SignalR-ile-Restoran-Siparis-Yonetimi) | Real-time restaurant ordering system with QR code integration | ASP.NET Core, SignalR |
+| [🚗 CarBook – Onion Architecture](https://github.com/furknsyl/CarBook-Project-Onion-Architecture-) | Car rental application built with a layered architecture | .NET Core |
+| [🏨 HotelAPI](https://github.com/furknsyl/HotelAPI) | Project focused on RapidAPI integration and API consumption | ASP.NET Core |
+| [⚛️ ReactProjects](https://github.com/furknsyl/ReactProjects) | Various projects built with React | React, JavaScript |
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furknsyl&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
@@ -68,9 +66,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=furknsyl&theme=tokyonight&hide_border=true"/>
 </p>
 
-
 <p align="center">
-  <i>"Teknolojiye olan merakım ve öğrenme motivasyonum, teknik yetkinliğimi sürekli ileri taşımamı sağlıyor."</i>
+  <i>"My curiosity about technology and passion for learning drive me to continuously improve my technical skills."</i>
 </p>
 
 <p align="center">
